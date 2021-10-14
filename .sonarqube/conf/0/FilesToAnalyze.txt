@@ -1,0 +1,2 @@
+﻿C:\Users\maria\source\repos\helloWorld\helloWorld\Program.cs
+C:\Users\maria\source\repos\helloWorld\helloWorld\obj\Debug\netcoreapp3.1\apphost.exe
